@@ -73,10 +73,11 @@ Logo styles
 }
 
 .logo .logo-img {
-    height: 45px;
+    margin-left: 75px;
+    height: 75px;
     display: inline-block;
     vertical-align: middle;
-    width: 70px;
+    width: 100px;
 }
 
 .logo-img {
